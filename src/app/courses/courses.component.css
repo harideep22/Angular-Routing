@@ -1,0 +1,74 @@
+.courses{
+    margin-top: 20px;
+}
+
+.offcanvas-header{
+    margin: auto;
+    width: 200px;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.course-line{
+    color: black;
+    margin-top: 2px;
+}
+
+.course-container{
+    margin-top: 0px;
+    display: inline-flex;
+    
+}
+
+.course-card{
+    height: 300px;
+    width: 200px;
+    padding: 50px 0px;
+    margin: 50px 50px;
+}
+
+.containersa h2{
+    padding-left: 70px;
+}
+
+.details{
+    display: flex;
+    justify-content: space-between;
+}
+
+.course-name h4{
+    font-size: 15px;
+}
+
+
+.course-buttons{
+    margin-left: 0px;
+    display: flex;
+    width: 220px;
+    justify-content: space-between;
+}
+
+.about-line hr{
+    color: black;
+    
+}
+
+.course-buttons .btn1{
+    background-color: rgb(98, 232, 98);
+    border: none;
+    color: white;
+    font-size: 17px;
+}
+.course-buttons .btn2{
+    background-color: rgb(236, 80, 80);
+    border: none;
+    color: white;
+    font-size: 17px;  
+}
+
+.course-buttons .btn1:hover{
+    background-color: green;
+}
+.course-buttons .btn2:hover{
+    background-color: red;
+}

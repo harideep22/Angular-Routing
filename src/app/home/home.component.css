@@ -1,0 +1,70 @@
+
+.continue{
+    margin:auto;
+    background-color: #777;
+    color: white;
+    height: 100px;
+    width: 875px;
+    margin-top: 1.75rem;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: 700;
+    font-size: 30px;
+}
+hr{
+    color: black;
+    margin-top: 2.5rem;
+}
+
+
+
+.courses{
+    margin-top: 20px;
+}
+
+.offcanvas-header{
+    margin: auto;
+    width: 400px;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.course-line{
+    color: black;
+    margin-top: 2px;
+}
+
+.course-container{
+    margin-top: -50px;
+    display: inline-flex;
+    
+}
+
+.course-card{
+    height: 300px;
+    width: 200px;
+    padding: 50px 0px;
+    margin: 50px 50px;
+}
+
+.containersa h2{
+    padding-left: 70px;
+}
+
+.details{
+    display: flex;
+    justify-content: space-between;
+}
+
+.course-name h4{
+    font-size: 15px;
+}
+
+
+.course-buttons{
+    margin-left: 0px;
+    display: flex;
+    width: 220px;
+    justify-content: space-between;
+}
+
